@@ -33,7 +33,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://dev.to/sepiroth-x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sepiroth-x" height="30" width="40" /></a>
+<a href="https://dev.to/sepirothx" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sepirothx" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/richard-cupal-lpt-705062117" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="richard-cupal-lpt-705062117" height="30" width="40" /></a>
 <a href="https://fb.com/tsadiqz3" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tsadiqz3" height="30" width="40" /></a>
 </p>
