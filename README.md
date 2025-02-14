@@ -15,7 +15,7 @@
 
 - 🌱 I’m currently learning **Laravel + MongoDB | Nuxt 3 + Tailwind CSS**
 
-- 👯 I’m looking to collaborate on **Any Java Projects**
+- 👯 I’m looking to collaborate on **Any Java and Web App Projects**
 
 - 🤝 I’m looking for help with **Front-End Design for UI / UX**
 
